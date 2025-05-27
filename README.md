@@ -24,5 +24,6 @@
 > [!NOTE]
 > Estoy aprendiendo asi que xd.
 
-
+> [!NOTE]
+> Este si esta funkando Uwu.
 
