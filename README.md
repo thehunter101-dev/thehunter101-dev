@@ -22,4 +22,4 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
 > [!NOTE]
-> Estoy aprendiendo asi que xd.
+> Soy jugador de fighting Games asi que tengo falta de skill issues TwT.
